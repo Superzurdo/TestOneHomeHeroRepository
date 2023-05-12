@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 🎓 We are Currently studying System engineering at the University of Cundinamarca<br>🌠 We are on the fifth term this first 2023 semester <br>🧠 Our Project Integrants are:<br>1️⃣ John Sebastian Galindo Hernandez<br>2️⃣ Miguel Angel Moreno Beltran<br>3️⃣ Julian David Lara Beltran<br>4️⃣ Jose Miguel Touzzo Izaguirre<br>👨🏻‍🏫 The professor of the Software Engineering subject and the guide in charge of supervising the project is:<br>🏆Erick Sang Ramirez
 
 
